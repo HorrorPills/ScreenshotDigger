@@ -28,3 +28,8 @@ pip3 install selenium
 - Mozilla Firefox & Mozilla Gecko Driver
 https://github.com/mozilla/geckodriver/releases
 
+wget https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-linux64.tar.gz
+whereis python3
+tar -xvf geckodriver-v0.31.0-linux64.tar.gz
+sudo mv geckodriver /usr/local/bin
+
