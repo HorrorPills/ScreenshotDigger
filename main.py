@@ -8,7 +8,7 @@ from io import BytesIO
 from termcolor import colored
 # import requests
 import cfscrape
-# Set environment variable
+# Set environment variable ble ble
 TK_SILENCE_DEPRECATION = 1
 
 # generate a string of 2 random letters
